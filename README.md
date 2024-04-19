@@ -6,7 +6,6 @@
 - I have worked in commercial lending and private banking for 8 years and have worked in banking for over 13 years.
 - 💞️ I’m looking to collaborate on Data Science, Data Analytics or any web development projects.
 - 📫 How to reach me walterguy.efird@icloud.com
-- 
 
 <!---
 WattEfird4/WattEfird4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
